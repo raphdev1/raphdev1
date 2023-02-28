@@ -11,7 +11,7 @@
 </div>
 </br>
 
-![RaphDev1GitHub stats](https://github-readme-stats.vercel.app/api?username=raphdev1&show_icons=true&theme=dracula&count_private=true)
+![RaphDev1GitHub stats](https://github-readme-stats.vercel.app/api?username=raphdev1&show_icons=true&theme=radical&count_private=true)
 
   
 
