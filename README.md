@@ -1,5 +1,7 @@
 ### Opa, Eu sou o Raphael Marques 👋
 
+<a href="linkedin.com/in/raphaelmarques01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+
 [Linkedin](https://www.linkedin.com/in/raphaelmarques01/)
 
 <div style="display: inline_block"><br>
