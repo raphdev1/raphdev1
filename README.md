@@ -1,6 +1,6 @@
 ### Opa, Eu sou o Raphael Marques 👋
 
-[Linkedin](linkedin.com/in/raphaelmarques01/)
+[Linkedin](https://www.linkedin.com/in/raphaelmarques01/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
