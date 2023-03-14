@@ -2,8 +2,6 @@
 
 <a href="https://www.linkedin.com/in/raphaelmarques01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
-![RaphDev1 GitHub stats](https://github-readme-stats-raphdev1.vercel.app/api?username=raphdev1&show_icons=true&theme=radical)
-
 ## Tecnologias que eu uso no meu dia!
 
 <div style="display: inline_block">
