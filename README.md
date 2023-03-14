@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/raphaelmarques01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
-![RaphDev1GitHub stats](https://github-readme-stats.vercel.app/api?username=raphdev1&show_icons=true&theme=dark&count_private=true)
+![RaphDev1 GitHub stats](https://github-readme-stats.vercel.app/api?username=raphdev1&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia!
 
